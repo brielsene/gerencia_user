@@ -1,4 +1,4 @@
-# Gerencia Users
+# Gerencia User
 Backend criado para cadastro e gerenciamento de usuários.
 
 
